@@ -8,15 +8,15 @@ include_once('Header.php');
 include_once('Encrypt.php');
 
 // Enter your Crowd Valley API Key and Secret
-$apiKey = 'your-api-key';
-$apiSecret = 'your-api-secret';
+$apiKey = 'siviacapital-001';
+$apiSecret = '2tG2eINoFa';
 
 // Enter your Username and Password
-$username = 'yourname@youremail.com';
-$password = 'yourpassword';
+$username = 'ben@siviacapital.com';
+$password = 'WC3QLxeWLZ';
 
 // Enter your Network Name
-$network = 'yournetworkname';
+$network = 'siviacapital';
 
 // Enter the API endpoint. This should be "https://sandbox.crowdvalley.com/v1" 
 // unless you have a paid account with Crowd Valley and you are using the live API
